@@ -2,7 +2,7 @@
 
 Multi-Label Classification
 
-  * [Medical Code Prediction from Discharge Summary: Document to Sequence BERT using Sequence Attention](https://arxiv.org/abs/2106.07932)
+  * [Medical Code Prediction from Discharge Summary: Document to Sequence BERT using Sequence Attention](https://doi.org/10.1109/ICMLA52953.2021.00201)
   
     * `Tak-Sung Heo`, `Yongmin Yoo`, `Yeongjoon Park`, `Byeong-Cheol Jo`, `Kyounguk Lee`, `Kyungsun Kim`
 
